@@ -48,7 +48,7 @@ const Header = () => {
             />
             <div
             onClick={searchHandler}
-            className=" bg-[#F3A847] p-1.5 rounded-r-md">
+            className=" cursor-pointer hover:bg-[#a36f2a] bg-[#F3A847] p-1.5 rounded-r-md">
               <IoSearch className="text-3xl" />
             </div>
           </div>
