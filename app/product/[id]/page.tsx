@@ -13,8 +13,8 @@ const page = () => {
   return (
     <div>
       <SingleProduct singleProduct={singleProduct}/>
+
     </div>
   );
 };
-
 export default page;
